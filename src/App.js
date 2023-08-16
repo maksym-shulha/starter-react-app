@@ -6,9 +6,8 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
+        <p>Hi, my name is Maksym Shulha.</p> 
+        <p>Welcome to my first app deployed with cyclic</p>
         <a
           className="App-link"
           href="https://reactjs.org"
